@@ -1,18 +1,15 @@
-## Getting Started
+# Bucket Sort
+Instituto Federal do Piauí (IFPI) - Curso superior de Análise e Desenvolvimento de Sistemas - Módulo II
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto de implementação do Algoritmo Bucket Sort para a disciplina de Estrutura de Dados I
 
-## Folder Structure
+Equipe: Marcos Paulo e Matheus da Silva
 
-The workspace contains two folders by default, where:
+## -> Descrição do trabalho
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Em duplas os alunos deverão produzir um relatório sobre a performance dos seguintes algoritmos de ordenação: Buble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort e Counting Sort, como algoritmos utilizados par ordenar cada balde do algoritmo Bucket Sort. 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Os testes deverão se utilizar de de conjuntos de dados (vetores de números inteiros) gerados romanticamente nos tamanhos: 100, 500, 1000, 5000, 30000, 80000, 100000, 150000 e 200000. 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+No relatório deve constar tabela com os tempos de execução de cada algoritmo interno com o Bucket Sort, para os mesmos conjuntos de dados, e constar também das informações sobre linguagem e ambiente de execução (configuração de hardware) e, por fim a conclusão deve tentar explicar o porque de um determinado sub algoritmo ter se saído melhor. deve ser utiliazado o modelo SBC em anexo para produção do relatório.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

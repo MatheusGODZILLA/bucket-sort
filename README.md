@@ -13,3 +13,5 @@ Os testes deverão se utilizar de de conjuntos de dados (vetores de números int
 
 No relatório deve constar tabela com os tempos de execução de cada algoritmo interno com o Bucket Sort, para os mesmos conjuntos de dados, e constar também das informações sobre linguagem e ambiente de execução (configuração de hardware) e, por fim a conclusão deve tentar explicar o porque de um determinado sub algoritmo ter se saído melhor. deve ser utiliazado o modelo SBC em anexo para produção do relatório.
 
+## -> Como funciona o algoritmo Bucket Sort:
+O algoritmo de ordenação Bucket Sort funciona dividindo os elementos de um vetor em baldes, ou seja, segmentos menores de mesmo tamanho. Cada balde é então ordenado individualmente, e os elementos dos baldes são colocados de volta no vetor original na ordem correta.
